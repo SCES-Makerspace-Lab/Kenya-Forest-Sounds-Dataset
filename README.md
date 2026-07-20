@@ -27,6 +27,7 @@ The primary purpose of this dataset is to address the limited availability of na
 3. Acoustic biodiversity and environmental monitoring.
 4. Training and evaluation of audio classification models.
 
+### Refer to the datasheet on the Zenodo record for more details regarding collection and use of the dataset.
 ---
 
 ## Dataset Structure
@@ -48,62 +49,60 @@ The primary purpose of this dataset is to address the limited availability of na
 
 ## Sound Labels
 
-The dataset contains the following labels (including original label naming conventions):
+The dataset contains the following labels as done conventionally by the research team:
 
-- Axe
-- Bag
-- Bag Zip
-- Birds
-- Car Passing
-- Chainsaw
-- Child
-- Cow Mooing
-- Creaking
-- Crickets
-- Cutting Wood
-- Distant Talking
-- Distrubance Noise
-- Disturbance Noise
-- Drone
-- Engine
-- Flowing Water
-- Livestock
-- Machine Beeping
-- Machine Moving
-- Motorcycle
-- Moving Machine
-- Moving Object
-- Moving Objects
-- Moving Vehicle
-- Objects Moving in Water
-- Objects Moving
-- Passing Vehicle
-- People Taling
-- People Talking
-- People Talking and Laughing
-- Person Laughing
-- Person Moving
-- Person Singing
-- Person Talking
-- Person Talking Over Disturbance Noise
-- Person Talking (Far)
-- Person Walking
-- Phone
-- Plastic Wrapper
-- Pouring Water
-- Radio
-- Shuffling
-- Sloshing Water
-- Sloshing Water and Talking
-- Steel Banging
-- Talking
-- Vehicle
-- Wind
+| Label | Count |
+|---------|------:|
+| Axe | 90 |
+| Bag | 12 |
+| Bag Zip | 22 |
+| Birds | 213 |
+| car passing | 1 |
+| Chainsaw | 129 |
+| Child | 2 |
+| cow mooing | 2 |
+| Creaking | 1 |
+| Crickets | 3 |
+| Cutting wood | 7 |
+| Distant talking | 15 |
+| disturbance noise | 6 |
+| Drone | 5 |
+| Engine | 3 |
+| Flowing water | 21 |
+| Livestock | 26 |
+| Machine beeping | 1 |
+| Machine moving | 6 |
+| Motorcycle | 5 |
+| Moving object | 8 |
+| Moving vehicle | 6 |
+| Objects moving | 46 |
+| Objects moving in water | 11 |
+| passing vehicle | 3 |
+| people talking | 39 |
+| people talking and laughing | 1 |
+| person laughing | 2 |
+| Person moving | 9 |
+| Person singing | 3 |
+| Person talking | 3448 |
+| person talking over disturbance noise | 1 |
+| Person walking | 379 |
+| Phone | 4 |
+| Plastic wrapper | 11 |
+| pouring water | 4 |
+| radio | 1 |
+| Shuffling | 13 |
+| sloshing water | 4 |
+| sloshing water and talking | 1 |
+| Steel banging | 1 |
+| Vehicle | 703 |
+| White Noise | 1 |
+| Wind | 231 |
+| **SUM** | **5500** |
 
 ---
 
 ## Citation and Attribution
 
-When using this dataset, please cite the dataset record available on Zenodo:
+When using this dataset, please cite the dataset record available on Zenodo: https://zenodo.org/records/19644980
 
-https://zenodo.org/records/19644980
+#### Any questions/issues are more than welcome: please write to Allan Vikiru (avikiru@strathmore.edu) with your query!
