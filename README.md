@@ -6,7 +6,7 @@
 
 All authors and contributors are listed on Zenodo:
 
-- https://zenodo.org/records/19644980
+- https://zenodo.org/records/21443074
 
 ---
 
@@ -103,6 +103,6 @@ The dataset contains the following labels as done conventionally by the research
 
 ## Citation and Attribution
 
-When using this dataset, please cite the dataset record available on Zenodo: https://zenodo.org/records/19644980
+When using this dataset, please cite the dataset record available on Zenodo: https://zenodo.org/records/21443074
 
 #### Any questions/issues are more than welcome: please write to Allan Vikiru (avikiru@strathmore.edu) with your query!
